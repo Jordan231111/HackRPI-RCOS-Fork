@@ -6,10 +6,11 @@ import React from 'react';
 
 function PrizePage() {
     return (
-        <div className="PrizePage">
+        <div id="home" className='PrizePage'>
+
             <header className="PrizePage">
                 <p>
-                    Hello React!
+                    PrizesGoHere
                 </p>
             </header>
         </div>
@@ -17,6 +18,8 @@ function PrizePage() {
 }
 
 export default PrizePage;
+
+
 
 
 
